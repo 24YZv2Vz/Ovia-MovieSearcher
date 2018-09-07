@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieSearcher</string>
+
+    <string name="search">Search</string>
+    <string name="start_searching">Start searching!</string>
+    <string name="no_results_found">No results found</string>
+    <string name="search_hint">Search for a movie</string>
+    <string name="go_to_imdb">Go to IMDB</string>
+
+</resources>
